@@ -3,4 +3,5 @@ class Song
   
   def intialization(title)
     @title = title
+  end
 end
